@@ -72,12 +72,12 @@ To install the required dependencies, you can use the following:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ## How to Run the Project
 ```
-1. **Navigate to the lab02 folder**:
+1. **Navigate to the lab02 folder:**
 
 ```bash
    cd applied-ml-elen/lab02
 ``` 
-2. **Open the Jupyter notebook:**:
+2. **Open the Jupyter notebook:**
 bash
 jupyter notebook ml02_elen.ipynb
 
