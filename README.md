@@ -1,4 +1,4 @@
-# Titanic Dataset Analysis
+# Titanic Dataset Analysis Lab 2
 
 ## Introduction
 
