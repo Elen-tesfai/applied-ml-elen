@@ -1,4 +1,4 @@
-# Titanic Dataset Analysis
+# Titanic Dataset Analysis Lab 2
 
 ## Introduction
 
@@ -78,8 +78,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
    cd applied-ml-elen/lab02
 ``` 
 2. **Open the Jupyter notebook:**
-bash
+
 jupyter notebook ml02_elen.ipynb
 
 3. **Follow the steps in the notebook to explore, preprocess, and build the model.**
+
 This format separates each step clearly and is easy to follow when reading.
